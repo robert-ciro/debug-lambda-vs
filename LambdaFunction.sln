@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaFunction", "src\LambdaFunction\LambdaFunction.csproj", "{3A18349D-8E3A-4E17-B17A-722DA2B03BB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CC18545-C783-4732-8613-E96012DDD643}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A18349D-8E3A-4E17-B17A-722DA2B03BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A18349D-8E3A-4E17-B17A-722DA2B03BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A18349D-8E3A-4E17-B17A-722DA2B03BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A18349D-8E3A-4E17-B17A-722DA2B03BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
